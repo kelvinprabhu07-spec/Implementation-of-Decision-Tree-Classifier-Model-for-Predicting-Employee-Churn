@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1. Import the required libraries such as NumPy, Matplotlib and Scikit-learn.
+2. 
 2.Create a dataset containing employee age, salary, years of experience and churn status.
+
 3.Split the dataset into training and testing data, then create and train the Decision Tree Classifier.
+
 4.Predict whether an employee will leave the company or stay and display the accuracy.
   
 
